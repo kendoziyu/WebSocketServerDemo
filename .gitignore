@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+gradlew
+gradlew.bat
+
+#gradle wrapper
+gradle/
+
+# Java class files
+*.class
+
+# Intellij
+*.iml
+*/*.iml
+
+# git
+.git
